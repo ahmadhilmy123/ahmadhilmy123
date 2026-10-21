@@ -2,120 +2,125 @@
 
 # Ahmad Hilmy
 
-**Web Developer · UI/UX Designer · Creative Builder**
+### Web Developer · Backend Builder · UI/UX Enthusiast
 
-I build useful web applications and design clear, thoughtful digital experiences.
+I build practical web applications and structured digital experiences.
 
 <br />
 
-<a href="https://github.com/ahmadhilmy123?tab=repositories">Projects</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/ahmadhilmy123">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:ahmad.hilmy@example.com">Contact</a>
+[![Repositories](https://img.shields.io/badge/Explore%20projects-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmadhilmy123?tab=repositories)
+[![Profile](https://img.shields.io/badge/GitHub-ahmadhilmy123-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmadhilmy123)
 
 </div>
 
 ---
 
-## Hello, I’m Ahmad.
+## Profile
 
-I’m a developer from Indonesia who enjoys working between **technology and visual design**. My work focuses on building practical web applications, structured information systems, and interfaces that are simple to understand.
+I’m Ahmad Hilmy, a developer from Indonesia focused on building web applications, information systems, and user interfaces that are clear, useful, and maintainable.
 
-I care about three things:
+My work sits between **development and design**: I enjoy turning an idea into a working product, then improving the details that make it easier to use.
 
-- **Clarity** — interfaces and code should be easy to follow.
-- **Functionality** — every feature should solve a real problem.
-- **Craft** — small details make a product feel complete.
+- Building web applications and information systems
+- Working with PHP, Laravel, JavaScript, and TypeScript
+- Exploring UI/UX, layout, and visual communication
+- Continuously improving code quality and product thinking
 
-```js
-const ahmadHilmy = {
-  role: "Web Developer & UI/UX Designer",
-  building: ["Web Applications", "Information Systems", "Digital Interfaces"],
-  workingWith: ["PHP", "Laravel", "JavaScript", "TypeScript", "Python"],
-  designingWith: ["Figma", "Canva"],
-  learning: "Build better products, one iteration at a time."
-};
-```
+## Selected projects
 
-## Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 01 — PMB SMA
-A TypeScript-based admission application focused on structured data and a clear user flow.
+### PMB SMA
 
-**TypeScript** · [View repository →](https://github.com/ahmadhilmy123/pmb-sma)
+A TypeScript project for a structured admission workflow and data management.
 
-### 02 — Toko Online
-An e-commerce application built with Laravel and Blade for managing products and transactions.
+`TypeScript`
 
-**PHP · Laravel · Blade** · [View repository →](https://github.com/ahmadhilmy123/toko-online)
+[View project →](https://github.com/ahmadhilmy123/pmb-sma)
 
-### 03 — Movie App
-A JavaScript project for exploring movies through a straightforward web interface.
+</td>
+<td width="50%" valign="top">
 
-**JavaScript** · [View repository →](https://github.com/ahmadhilmy123/movie-app)
+### Toko Online
 
-### 04 — GoRentt
-A rental website concept with an emphasis on layout, responsive design, and visual hierarchy.
+An e-commerce application built with Laravel and Blade.
 
-**HTML · CSS** · [View repository →](https://github.com/ahmadhilmy123/GoRentt)
+`PHP` · `Laravel` · `Blade`
 
-### 05 — School Attendance
-An information system project designed to support practical school attendance workflows.
+[View project →](https://github.com/ahmadhilmy123/toko-online)
 
-**Laravel · PHP** · [View repository →](https://github.com/ahmadhilmy123/SchoolAttendance)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 06 — Visualisasi Data
-A Python project exploring data through visual analysis and informative presentation.
+### School Attendance
 
-**Python** · [View repository →](https://github.com/ahmadhilmy123/uas_visdat)
+An information system project for managing school attendance workflows.
 
-[Explore all repositories →](https://github.com/ahmadhilmy123?tab=repositories)
+`PHP` · `Laravel`
 
-## Capabilities
+[View project →](https://github.com/ahmadhilmy123/SchoolAttendance)
 
-| Development | Design |
+</td>
+<td width="50%" valign="top">
+
+### Movie App
+
+A JavaScript project for browsing and exploring movie content.
+
+`JavaScript`
+
+[View project →](https://github.com/ahmadhilmy123/movie-app)
+
+</td>
+</tr>
+</table>
+
+[See all repositories →](https://github.com/ahmadhilmy123?tab=repositories)
+
+## What I work with
+
+| Area | Tools and focus |
 | --- | --- |
-| Frontend interfaces | Wireframes and prototypes |
-| Backend applications | UI layout and visual hierarchy |
-| Laravel and PHP systems | Figma interface exploration |
-| JavaScript and TypeScript projects | Canva visual content |
-| Database-driven applications | Product presentation |
-
-## Tools I use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,python,java,mysql,git,github,vscode,figma&perline=7" alt="Tools and technologies" />
-</p>
-
-## Design notes
-
-Alongside development, I explore interface design, posters, branding, and visual content with **Figma** and **Canva**.
-
-> Good design is not decoration. It is a way of making complex things feel simple.
-
-_Add your Figma or Canva portfolio link here when it is ready._
-
-## Currently learning
-
-- TypeScript and modern frontend patterns
-- Laravel architecture and API development
-- Better database design
-- Product thinking and interface systems
-- Turning design concepts into working products
-
-## Let’s connect
-
-I’m open to learning, collaborating, and building useful things with people who care about their work.
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, responsive interfaces |
+| **Backend** | PHP, Laravel, REST APIs, application logic |
+| **Database** | MySQL, data management, information systems |
+| **Programming** | Python, Java, object-oriented programming |
+| **Design** | UI exploration, wireframes, Figma, Canva |
+| **Workflow** | Git, GitHub, VS Code, documentation |
 
 <div align="center">
 
-<a href="https://github.com/ahmadhilmy123?tab=repositories">Explore my work</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:ahmad.hilmy@example.com">Send me an email</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,python,java,mysql,git,github,vscode,figma&perline=7" alt="Technologies" />
+
+</div>
+
+## Current focus
+
+- Building cleaner Laravel and PHP applications
+- Improving TypeScript and modern web development skills
+- Designing interfaces with stronger hierarchy and usability
+- Documenting projects so they are easier to understand and use
+
+## Design & visual work
+
+Alongside development, I explore interface concepts and visual design using Figma and Canva. This helps me think beyond implementation and pay attention to hierarchy, spacing, consistency, and the overall user experience.
+
+> Good software should work well and feel clear to use.
+
+## Let’s connect
+
+Interested in web development, product design, or building something useful together? Feel free to explore my repositories or connect through GitHub.
+
+<div align="center">
+
+[**Explore my work**](https://github.com/ahmadhilmy123?tab=repositories)
 
 <br /><br />
 
-<sub>Designed with intention · Built with curiosity</sub>
+<sub>Building with purpose · Learning through practice · Ahmad Hilmy</sub>
 
 </div>
